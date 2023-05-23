@@ -1,5 +1,5 @@
 {
-    "name": "Más sensores luz",
+    "name": "Más sensores servo",
     "description": "",
     "dependencies": {
         "core": "*",
